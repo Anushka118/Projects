@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/mlruns/0/311814975eb94d64a091401711886901/artifacts
+end_time: 1760682441563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 311814975eb94d64a091401711886901
+run_name: dapper-cow-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760682429990
+status: 3
+tags: []
+user_id: Anushka

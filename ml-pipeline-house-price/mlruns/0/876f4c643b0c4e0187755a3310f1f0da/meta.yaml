@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/mlruns/0/876f4c643b0c4e0187755a3310f1f0da/artifacts
+end_time: 1760683497514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 876f4c643b0c4e0187755a3310f1f0da
+run_name: trusting-loon-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760683497380
+status: 3
+tags: []
+user_id: Anushka

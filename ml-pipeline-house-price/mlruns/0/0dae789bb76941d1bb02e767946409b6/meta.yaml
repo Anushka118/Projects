@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/mlruns/0/0dae789bb76941d1bb02e767946409b6/artifacts
+end_time: 1760683336228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dae789bb76941d1bb02e767946409b6
+run_name: bright-ant-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760683336106
+status: 3
+tags: []
+user_id: Anushka

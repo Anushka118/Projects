@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/mlruns/0/65dbb32a8f5643a5ba14d9c40b0c967f/artifacts
+end_time: 1760683336068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65dbb32a8f5643a5ba14d9c40b0c967f
+run_name: exultant-snake-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760683325132
+status: 3
+tags: []
+user_id: Anushka

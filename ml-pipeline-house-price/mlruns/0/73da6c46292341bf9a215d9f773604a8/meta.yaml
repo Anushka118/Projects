@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/mlruns/0/73da6c46292341bf9a215d9f773604a8/artifacts
+end_time: 1760682667398
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73da6c46292341bf9a215d9f773604a8
+run_name: angry-hog-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760682667261
+status: 3
+tags: []
+user_id: Anushka

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/mlruns/0/c898fbcde85e45088419d3811a40ffb0/artifacts
+end_time: 1760684255164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c898fbcde85e45088419d3811a40ffb0
+run_name: legendary-jay-50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760684242619
+status: 3
+tags: []
+user_id: Anushka

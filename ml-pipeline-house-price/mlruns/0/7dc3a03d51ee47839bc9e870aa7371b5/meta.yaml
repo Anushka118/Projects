@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/mlruns/0/7dc3a03d51ee47839bc9e870aa7371b5/artifacts
+end_time: 1760684602937
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7dc3a03d51ee47839bc9e870aa7371b5
+run_name: RandomForest Training
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760684602775
+status: 4
+tags: []
+user_id: Anushka

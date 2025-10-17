@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/mlruns/0/d47e9e7b730a4ede94a4caf2a8eb5501/artifacts
+end_time: 1760682794852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d47e9e7b730a4ede94a4caf2a8eb5501
+run_name: charming-whale-941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760682794714
+status: 3
+tags: []
+user_id: Anushka

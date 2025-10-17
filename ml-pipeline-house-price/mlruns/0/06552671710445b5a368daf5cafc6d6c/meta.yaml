@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/mlruns/0/06552671710445b5a368daf5cafc6d6c/artifacts
+end_time: 1760683273034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06552671710445b5a368daf5cafc6d6c
+run_name: redolent-gnu-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760683272909
+status: 3
+tags: []
+user_id: Anushka

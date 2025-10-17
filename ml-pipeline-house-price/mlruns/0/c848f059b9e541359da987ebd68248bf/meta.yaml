@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/mlruns/0/c848f059b9e541359da987ebd68248bf/artifacts
+end_time: 1760683116487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c848f059b9e541359da987ebd68248bf
+run_name: intelligent-bee-837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760683104080
+status: 3
+tags: []
+user_id: Anushka

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/mlruns/650422537430441578/0adb644d94ed4ea28d7473ef33a7cd8f/artifacts
+end_time: 1760685183029
+entry_point_name: ''
+experiment_id: '650422537430441578'
+lifecycle_stage: active
+run_id: 0adb644d94ed4ea28d7473ef33a7cd8f
+run_name: learned-goat-778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760685182865
+status: 4
+tags: []
+user_id: Anushka

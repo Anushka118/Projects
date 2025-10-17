@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/mlruns/0/11b9dd2872b64150bf7b2d7ad8cd91a0/artifacts
+end_time: 1760684970494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11b9dd2872b64150bf7b2d7ad8cd91a0
+run_name: likeable-conch-117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760684970313
+status: 4
+tags: []
+user_id: Anushka

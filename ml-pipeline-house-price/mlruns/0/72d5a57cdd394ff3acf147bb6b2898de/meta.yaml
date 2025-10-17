@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/mlruns/0/72d5a57cdd394ff3acf147bb6b2898de/artifacts
+end_time: 1760682794663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72d5a57cdd394ff3acf147bb6b2898de
+run_name: fun-crow-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760682783209
+status: 3
+tags: []
+user_id: Anushka

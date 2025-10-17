@@ -1,0 +1,11 @@
+data_path: "C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/data/raw.csv"
+target_column: "price"
+test_size: 0.2
+random_state: 42
+
+model:
+  type: "RandomForestRegressor"
+  params:
+    n_estimators: 200
+    max_depth: 15
+    random_state: 42

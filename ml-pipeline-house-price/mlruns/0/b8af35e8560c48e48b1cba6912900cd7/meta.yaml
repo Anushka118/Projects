@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/mlruns/0/b8af35e8560c48e48b1cba6912900cd7/artifacts
+end_time: 1760683116670
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8af35e8560c48e48b1cba6912900cd7
+run_name: merciful-roo-110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760683116540
+status: 3
+tags: []
+user_id: Anushka

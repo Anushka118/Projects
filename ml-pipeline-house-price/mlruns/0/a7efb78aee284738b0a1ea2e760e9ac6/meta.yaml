@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/mlruns/0/a7efb78aee284738b0a1ea2e760e9ac6/artifacts
+end_time: 1760682667204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7efb78aee284738b0a1ea2e760e9ac6
+run_name: resilient-dove-6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760682655061
+status: 3
+tags: []
+user_id: Anushka

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/mlruns/0/7c8cd03c8cbd4333bd78ff08b1c57a4c/artifacts
+end_time: 1760683497325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c8cd03c8cbd4333bd78ff08b1c57a4c
+run_name: melodic-gnu-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760683485549
+status: 3
+tags: []
+user_id: Anushka

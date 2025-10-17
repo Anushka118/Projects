@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/mlruns/0/b0825a1224394035b96b68289b0b6d6c/artifacts
+end_time: 1760685144206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0825a1224394035b96b68289b0b6d6c
+run_name: Experimentt 1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760685144021
+status: 4
+tags: []
+user_id: Anushka

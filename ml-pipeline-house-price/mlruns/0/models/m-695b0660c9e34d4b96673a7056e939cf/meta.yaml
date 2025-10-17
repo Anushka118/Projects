@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/mlruns/0/models/m-695b0660c9e34d4b96673a7056e939cf/artifacts
+creation_timestamp: 1760683105183
+experiment_id: '0'
+last_updated_timestamp: 1760683116317
+model_id: m-695b0660c9e34d4b96673a7056e939cf
+model_type: null
+name: model
+source_run_id: c848f059b9e541359da987ebd68248bf
+status: 2
+status_message: null

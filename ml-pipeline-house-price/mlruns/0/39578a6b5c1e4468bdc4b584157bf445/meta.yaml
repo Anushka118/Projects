@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Anushka/Documents/personal/BITS/Projects/ml-pipeline-house-price/mlruns/0/39578a6b5c1e4468bdc4b584157bf445/artifacts
+end_time: 1760683954813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39578a6b5c1e4468bdc4b584157bf445
+run_name: sneaky-swan-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760683942309
+status: 3
+tags: []
+user_id: Anushka
